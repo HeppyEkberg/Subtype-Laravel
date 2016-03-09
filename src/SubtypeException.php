@@ -1,4 +1,4 @@
-<?php namespace Elicit\Subtype;
+<?php namespace Subtype;
 
 use Exception;
 

@@ -1,4 +1,4 @@
-<?php namespace Elicit\Subtype;
+<?php namespace Subtype;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;

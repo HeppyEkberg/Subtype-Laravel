@@ -10,11 +10,9 @@
       "email": "dennis.karlsson@elicit.se"
     }
   ],
-  "extra": {
-    "component": {
-      "files": [
-
-      ]
+  "autoload": {
+    "psr-4": {
+      "Subtype\\": "src/"
     }
   }
 }
