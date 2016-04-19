@@ -1,6 +1,6 @@
 <?php
 
-namespace Subtype;
+namespace HeppyKarlsson\Subtype;
 
 /**
  * The Subtype trait is to split a database table into different models based on a column and it's value.
