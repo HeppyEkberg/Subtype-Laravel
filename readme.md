@@ -5,7 +5,7 @@
  To use the trait you have to specify which column and what it's value is with the following attributes:
 
 ```
- use HeppyKarlsson\Subtype\Subtype;
+ use HeppyEkberg\Subtype\Subtype;
 
  public $subtypeColumn = 'COLUMN_NAME';
  public $subtypeValue = 'COLUMN_VALUE';
@@ -16,9 +16,9 @@
 
 ```
   "require": {
-    "heppykarlsson/subtype-laravel": "^1"
+    "heppyekberg/subtype-laravel": "^1"
   },
   "repositories": [
-    { "type": "vcs", "url": "https://github.com/HeppyKarlsson/subtype-laravel.git" }
+    { "type": "vcs", "url": "https://github.com/HeppyEkberg/subtype-laravel.git" }
   ],
 ```

@@ -1,4 +1,4 @@
-<?php namespace HeppyKarlsson\Subtype;
+<?php namespace HeppyEkberg\Subtype;
 
 use Exception;
 

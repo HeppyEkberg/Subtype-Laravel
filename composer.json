@@ -1,18 +1,18 @@
 {
-  "name": "heppykarlsson/subtype-laravel",
+  "name": "heppyekberg/subtype-laravel",
   "type": "component",
   "license": "Apache-2.0",
   "description": "Laravel Subtype",
   "minimum-stability": "dev",
   "authors": [
     {
-      "name": "Dennis Karlsson",
-      "email": "dennis.karlsson@elicit.se"
+      "name": "Heppy Ekberg",
+      "email": "heppy@ekberg.nu"
     }
   ],
   "autoload": {
     "psr-4": {
-      "HeppyKarlsson\\Subtype\\": "src/"
+      "HeppyEkberg\\Subtype\\": "src/"
     }
   }
 }
